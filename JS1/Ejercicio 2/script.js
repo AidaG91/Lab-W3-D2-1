@@ -1,6 +1,6 @@
-let nombre = prompt("¿Cómo te llamas?")
-let localidad = prompt("¿Dónde vives?")
-let hobby = prompt("¿Qué te gusta hacer?")
+let nombre = prompt("¿Cómo te llamas?");
+let localidad = prompt("¿Dónde vives?");
+let hobby = prompt("¿Qué te gusta hacer?");
 
 let user = {
     nombre,
