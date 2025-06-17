@@ -1,6 +1,4 @@
-let number1 = 28;
-let number2 = 15;
+let number1 = prompt("Escribe un número");
+let number2 = prompt("Escribe otro número");
 
-console.log(number1);
-console.log(number2);
 console.log (number1 - number2)
